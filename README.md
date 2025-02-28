@@ -10,3 +10,7 @@
 - `http://127.0.0.1:8000/services/timetable`
 - `http://127.0.0.1:8000/public/REG1001`
 - `http://127.0.0.1:8000/services/security`
+# Clone this project and run 
+- `pip list`  It will give me all the dependencies and you ate supposed to download it .
+- `uvicorn main:app --host 0.0.0.0 --port 8000 --reload` 
+- If there is any error then ping me .
